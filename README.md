@@ -1,3 +1,3 @@
-# Welcome!
+# My Github Page
 
-About me.
+A Github page providing a Resume and project portfolio.
